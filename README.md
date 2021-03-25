@@ -1,5 +1,5 @@
 # Py_FaceRecognition
-Finding known faces from the unknown faces.
+Simple Face Recognition in Python. Recognize and highlight known faces from all unknown faces.
 
 ## Required Packages
 opencv, face_recognition, pillow.
