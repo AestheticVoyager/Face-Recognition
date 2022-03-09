@@ -1,5 +1,5 @@
-# Simple Face Recognition Showcase in Python
-Recognize and highlight known faces from all unknown faces.
+# Face Recognition Script
+Recognize and highlight known faces from the K folder, from all unknown faces in U folder.
 
 ## Guide
 Simply create folder with the name of the person you wish for the script to recognize and highlight in the K folder.
@@ -10,8 +10,9 @@ Obviously assuming U folder contains pictures from the K folder, disregarding th
 
 ## TL;DR
 K: Known faces
-U: Unknown faces
 
+
+U: Unknown faces
 
 ## Required Packages
 opencv 
